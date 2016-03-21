@@ -1,0 +1,29 @@
+{
+  "name": "password-security",
+  "version": "1.0.0",
+  "description": "A demonstration for my presentation on password security",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ordonezalex/password-security.git"
+  },
+  "keywords": [
+    "password",
+    "security",
+    "hash",
+    "bcrypt",
+    "encryption"
+  ],
+  "author": "Alex Ordonez <me@ordonezalex.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ordonezalex/password-security/issues"
+  },
+  "homepage": "https://github.com/ordonezalex/password-security#readme",
+  "dependencies": {
+    "bcrypt": "^0.8.5"
+  }
+}
